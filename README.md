@@ -6,7 +6,7 @@
 </p>
 
 ## 📜About Me
-<img align="right" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 💯 Ability to work autonomously and overcome challenges with passion.<br/>
 💫 Writing clean, reusable code with strong emphasis on stability and performance.<br/>
 📚 Love reading books on rest time.<br/>
