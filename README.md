@@ -7,6 +7,14 @@
 
 ## 📜About Me
 <img align="right" width="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+<br/>
+I am a Full-Stack Engineer with industry experience in building websites and web applications. Specialist in JS framework. Satisfactory background working with React, Angular, Vue and Node on multiple projects.
+
+I have powerful Front-End experience and am eager to learn more concepts and deep dive into web area.
+
+Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.
+###
+
 🚀  I’m currently learning Full Stack Development.<br/>
 💻  I love exploring new tech stack and building cool stuffs.<br/>
 💯  Ability to work autonomously and overcome challenges with passion.<br/>
