@@ -7,7 +7,9 @@
 
 ## 📜About Me
 <img align="right" width="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-💯 Ability to work autonomously and overcome challenges with passion.<br/>
-💫 Writing clean, reusable code with strong emphasis on stability and performance.<br/>
-📚 Love reading books on rest time.<br/>
-☕ Coffee lover.<br/>
+🚀  I’m currently learning Full Stack Development.<br/>
+💻  I love exploring new tech stack and building cool stuffs.<br/>
+💯  Ability to work autonomously and overcome challenges with passion.<br/>
+💫  Writing clean, reusable code with strong emphasis on stability and performance.<br/>
+📰  Reading & writing tech blogs whenever possible.<br/>
+☕  Coffee lover  🕊  love feeding birds.<br/>
