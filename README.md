@@ -27,7 +27,7 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 <code><img src="./assets/react.png" height="40"></code>
 <code><img src="./assets/nextjs-logo.svg" height="43"></code>
 <code><img src="./assets/Angular.png" height="40"></code>
-<code><img src="./assets/vue.png" height="40"></code>
+<code><img src="./assets/vue.png" height="36"></code>
 <code><img src="./assets/node.png" height="40"></code>
 <code><img src="./assets/NestJS.png" height="40"></code>
 <code><img src="./assets/Bootstrap_logo.png" height="40"></code>
