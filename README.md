@@ -23,29 +23,25 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 📰  Reading & writing tech blogs whenever possible.<br/>
 ☕  Coffee lover  🕊  love feeding birds.<br/>
 
-## Languages/Frameworks
-<code><img src="./assets/html.png" height="40"></code>
-<code><img src="./assets/css.png" height="40"></code>
-<code><img src="./assets/Sass%20logo.svg" height="55"></code>
-<code><img src="./assets/js.png" height="40"></code>
-<code><img src="./assets/Typescript.svg" height="40"></code>
-<code><img src="./assets/c++.jpg" height="40"></code>
-<code><img src="./assets/java.png" height="40"></code>
-<code><img src="./assets/php.jpg" height="40"></code>
-
+## Tech Stack
+<code><img src="./assets/react.png" height="40"></code>
+<code><img src="./assets/nextjs-logo.svg" height="43"></code>
+<code><img src="./assets/Angular.png" height="40"></code>
+<code><img src="./assets/vue.png" height="40"></code>
+<code><img src="./assets/node.png" height="40"></code>
+<code><img src="./assets/NestJS.png" height="40"></code>
 <code><img src="./assets/Bootstrap_logo.png" height="40"></code>
 <code><img src="./assets/mui.png" height="40"></code>
 <code><img src="./assets/Tailwind_CSS.png" height="40"></code>
 
-<code><img src="./assets/react.png" height="40"></code>
-<code><img src="./assets/nextjs-logo.svg" height="43"></code>
-<code><img src="./assets/Angular.jpg" height="40"></code>
-
-<code><img src="./assets/vue.png" height="40"></code>
-<code><img src="./assets/node.png" height="40"></code>
-<code><img src="./assets/NestJS.png" height="40"></code>
-
-<code><img src="./assets/MySQL-Logo.jpg" height="40"></code>
-<code><img src="./assets/MongoDB.jpg" height="40"></code>
-<code><img src="./assets/PostgreSQL.jpg" height="40"></code>
-
+<code><img src="./assets/html.png" height="40"></code>
+<code><img src="./assets/css.png" height="40"></code>
+<code><img src="./assets/Sass%20logo.svg" height="40"></code>
+<code><img src="./assets/js.png" height="40"></code>
+<code><img src="./assets/Typescript.svg" height="40"></code>
+<code><img src="./assets/c++.png" height="40"></code>
+<code><img src="./assets/java.png" height="40"></code>
+<code><img src="./assets/php.png" height="40"></code>
+<code><img src="./assets/MySQL-Logo.png" height="40"></code>
+<code><img src="./assets/MongoDB.png" height="40"></code>
+<code><img src="./assets/PostgreSQL.png" height="40"></code>
