@@ -25,6 +25,7 @@ Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time,
 
 ## 🛠️ Tech Stack
 
+<code><img src="./assets/react.png" height="40"></code>
 <code><img src="./assets/nextjs-logo.svg" height="43"></code>
 <code><img src="./assets/Angular.png" height="40"></code>
 <code><img src="./assets/vue.png" height="36"></code>
